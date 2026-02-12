@@ -1,8 +1,8 @@
 # Attendance-
 Attendance project based on python code
 DEFAULT_NAMES = [
-    "Alice", "Bob", "Charlie", "David", "Eve",
-    "Frank", "Grace", "Heidi", "Ivan", "Judy"
+    "devdeep", "shrea", "mona", "Dev", "tashu",
+    "shrit", "divyadeep", "rahul", "rinku", "ishita"
 ]
 
 def get_yes_no(prompt, valid_yes=("p","present","y","yes"), valid_no=("a","absent","n","no")):
